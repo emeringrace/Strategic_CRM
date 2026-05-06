@@ -121,4 +121,3 @@ http://localhost/Strategic_CRM/
 
 ---
 
-*IT252M — Database Management Systems | NITK Surathkal | April 2026*
